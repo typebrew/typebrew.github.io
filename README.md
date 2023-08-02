@@ -1,2 +1,2 @@
 # typebrew.github.io
-## Endlessly brewing fonts
+Endlessly brewing fonts
